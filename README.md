@@ -1,8 +1,10 @@
 # 🔥 Phoenix Team
 
-![Phoenix Rise](https://media.giphy.com/media/Wr3LZ5V0wz5Ti/giphy.gif)
-![Coding Future](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
-![Team Work](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif)
+<div align="center">
+  <img src="https://media.giphy.com/media/Wr3LZ5V0wz5Ti/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="250" />
+</div>
 
 ## 🚀 About Us
 

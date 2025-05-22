@@ -16,7 +16,7 @@ We rise to challenges, adapt through change, and deliver elegant solutions with 
 
 | Name                 | Role                         |
 | -------------------- | ---------------------------- |
-| **Shreyoshi**        | CEO & App Designer           |
+| **Shreyoshi Dey**    | CEO & App Designer           |
 | **Aahana Mukherjee** | Product Manager              |
 | **Aaloke Das**       | Android Frontend Developer   |
 | **Debanjan Das**     | JavaScript Backend Developer |

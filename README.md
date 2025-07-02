@@ -16,12 +16,11 @@ We rise to challenges, adapt through change, and deliver elegant solutions with 
 
 | Name                 | Role                         |
 | -------------------- | ---------------------------- |
-| **Shreyoshi Dey**    | CEO & App Designer           |
-| **Aahana Mukherjee** | Product Manager              |
 | **Aaloke Das**       | Android Frontend Developer   |
 | **Debanjan Das**     | JavaScript Backend Developer |
 | **Romyojit Paul**    | Python Backend Developer     |
 | **Sujal Shaw**       | Data Analyst                 |
+| **Nourin Hossain**   | Frontend Developer           |
 
 ## 🛠️ What We Do
 

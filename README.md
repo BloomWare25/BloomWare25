@@ -1,4 +1,4 @@
-# 🔥 Phoenix Team
+# 🔥 BloomWare Team
 
 <div align="center">
   <img src="https://media.giphy.com/media/Wr3LZ5V0wz5Ti/giphy.gif" width="250" />
@@ -26,9 +26,9 @@ We rise to challenges, adapt through change, and deliver elegant solutions with 
 
 * Mobile App Development
 * Backend Services (JS & Python)
-* UI/UX Design
 * Product Strategy & Management
 * Data Analysis & Insights
+* Frontend (web)
 
 ## 📦 Current Project: MediMinder
 

@@ -36,8 +36,7 @@ We rise to challenges, adapt through change, and deliver elegant solutions with 
 
 ## 📊 Analytics & Insights Repositories
 
-* [MediMinder Analytics Dashboard (Coming Soon)](https://github.com/phoenixdev2025/mediminder-analytics)
-* [User Behavior Tracking (Planned)](https://github.com/phoenixdev2025/mediminder-user-tracking)
+* [MediMinder Analytics Dashboard (Coming Soon)](https://github.com/BloomWare25/MediMinder)
 
 ## 📫 Contact Us
 
@@ -45,4 +44,4 @@ We rise to challenges, adapt through change, and deliver elegant solutions with 
 
 ---
 
-🕊️ *We are Phoenix. We rise. We build. We inspire.*
+🕊️ *We are BloomWare. We rise. We build. We inspire.*

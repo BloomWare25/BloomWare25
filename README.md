@@ -8,7 +8,7 @@
 
 ## 🚀 About Us
 
-We are **Phoenix** — a passionate team of developers and creators committed to building **stunning apps** that redefine user experience and push the boundaries of digital innovation.
+We are **BloomWare** — a passionate team of developers and creators committed to building **stunning apps** that redefine user experience and push the boundaries of digital innovation.
 
 We rise to challenges, adapt through change, and deliver elegant solutions with fire in our code and finesse in our design.
 
@@ -41,7 +41,7 @@ We rise to challenges, adapt through change, and deliver elegant solutions with 
 
 ## 📫 Contact Us
 
-**Email:** [phoenixdev2025@gmail.com](mailto:phoenixdev2025@gmail.com)
+**Email:** [thebloomware@gmail.com](mailto:thebloomware@gmail.com)
 
 ---
 

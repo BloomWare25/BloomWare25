@@ -8,7 +8,7 @@
 
 ## 🚀 About Us
 
-We are **BloomWare** — a passionate team of developers and creators committed to building **stunning apps** that redefine user experience and push the boundaries of digital innovation.
+We are **BloomWare** — a passionate team of developers and creators committed to building **stunning apps** that redefine user experience and push the boundaries of digital innovation and solves real-life problems.
 
 We rise to challenges, adapt through change, and deliver elegant solutions with fire in our code and finesse in our design.
 
@@ -21,6 +21,7 @@ We rise to challenges, adapt through change, and deliver elegant solutions with 
 | **Romyojit Paul**    | Python Backend Developer     |
 | **Sujal Shaw**       | Data Analyst                 |
 | **Nourin Hossain**   | Frontend Developer           |
+| **Sk Mehrabuddin**   | UI/UX Designer               |
 
 ## 🛠️ What We Do
 

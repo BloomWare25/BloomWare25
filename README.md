@@ -12,17 +12,6 @@ We are **BloomWare** — a passionate team of developers and creators committed 
 
 We rise to challenges, adapt through change, and deliver elegant solutions with fire in our code and finesse in our design.
 
-## 👥 Meet the Team
-
-| Name                 | Role                         |
-| -------------------- | ---------------------------- |
-| **Aaloke Das**       | Android Frontend Developer   |
-| **Debanjan Das**     | JavaScript Backend Developer |
-| **Romyojit Paul**    | Python Backend Developer     |
-| **Sujal Shaw**       | Data Analyst                 |
-| **Nourin Hossain**   | Frontend Developer           |
-| **Sk Mehrabuddin**   | UI/UX Designer               |
-
 ## 🛠️ What We Do
 
 * Mobile App Development
